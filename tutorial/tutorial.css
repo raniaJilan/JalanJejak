@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+.tutorial-main{
+    width: 100%;
+    height: 3130px;
+    background-color: black;
+}
+.tutorial-main img{
+    width: 100%;
+    position: absolute;
+}
+.tutorial-main h1{
+    position: absolute;
+    font-family: 'Abril Fatface';
+    color: white;
+    left: 149px;
+    top: 300px;
+    font-weight: 400;
+    font-size: 85px;
+}
+.navbar{
+    position: absolute;
+    background: transparent;
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+.content-tutor h1{
+    position: absolute;
+    width: 513px;
+    height: 88px;
+    left: 80px;
+    top: 677px;
+    color: #A3C556;
+    font-weight: 400;
+    font-size: 64px;
+    font-family: 'Abril Fatface';
+}
+.content-tutor p{
+    position: absolute;
+    color: white;
+    font-family: 'poppins';
+    left: 80px;
+    top: 778px;
+    font-weight: 400;
+    font-size: 20px;
+}
+/* .navbar a{
+    color: black;
+} */
+.content-box img{
+    width: 333px;
+    height: 333px;
+    position: absolute;
+    
+    
+}
+.content-box{
+    display: flex;
+    flex-direction: column;
+    /* top: 911px; */
+    /* margin-left: 150px; */
+    width: 420px;
+    height: 470px;
+    display: inline-block;
+    /* cursor: pointer; */
+    /* margin-top: 143px; */
+    /* top: 911px; */
+}
+.card{
+    top: 911px;
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+    /* cursor: pointer; */
+    margin-left: 80px;   
+}
+.content-box h3{
+    position: absolute;
+    color: white;
+    font-family: 'Abhaya Libre';
+    font-weight: 700;
+    font-size: 36px;
+    margin-top: 346px;
+}
+.content-carousel1 img{
+    margin-top: 1017px;
+    height: 773px;
+}
+.image{
+    position: absolute;
+    margin-top: 1017px;
+    width: 100%;
+    height: 773px;
+    background: linear-gradient(90deg, rgba(19, 78, 94, 0.67) 0%, rgba(113, 178, 128, 0.74) 100%);
+}
+.carousel{
+    /* position: absolute; */
+    background-color: white;
+    width: 1130px;
+    height: 486px;
+    left: 95px;
+    top: 1161px;
+    position: relative;
+}
+.footer{
+    height: 340px;
+    background: #1B211B;
+    position: absolute;
+    top: 2780px;
+}
+.content-footer img{
+    position: absolute;
+    width: 25vw;
+    height: 25vw;
+}
+.col2{
+    margin-left: 35vw;
+    margin-top: 100px;
+}
+.col2 a{
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+}
+.col3{
+    position: absolute;
+    margin-left: 75vw;
+    color: white;
+    margin-top: 100px;
+}
+.footer-title{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    padding-bottom: 20px;
+}

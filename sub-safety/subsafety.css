@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+
+.subsafety-main{
+    width: 100%;
+    height: 1880px;
+    background-color: black;
+}
+.subsafety-main img{
+    position: absolute;
+    height: 164px;
+}
+.grad-nav{
+    position: absolute;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(19, 78, 94, 0.67) 0%, rgba(113, 178, 128, 0.74) 100%);
+    height: 164px;
+}
+.subsafety-content img{
+    position: absolute;
+    width: 1130px;
+    height: 512px;
+    left: 105px;
+    top: 254px;
+}
+.subsafety-content h1{
+    position: absolute;
+    text-align: center;
+    top: 823px;
+    font-family: 'Abril Fatface';
+    font-size: 54px;
+    color: white;
+    left: 185px;
+}
+.subsafety-content span{
+    color: #A3C556;
+}
+.subsafety-content p{
+    color: white;
+    position: absolute;
+    width: 1130px;
+    height: 618px;
+    left: 129px;
+    top: 968px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+}
+.footer{
+    height: 340px;
+    background: #1B211B;
+    position: absolute;
+    top: 1533px;
+}
+.content-footer img{
+    position: absolute;
+    width: 25vw;
+    height: 25vw;
+}
+.col2{
+    margin-left: 35vw;
+    margin-top: 100px;
+}
+.col2 a{
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+}
+.col3{
+    position: absolute;
+    margin-left: 75vw;
+    color: white;
+    margin-top: 100px;
+}
+.footer-title{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    padding-bottom: 20px;
+}

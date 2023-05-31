@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+.tutorial-main{
+    width: 100%;
+    height: 3460px;
+    background-color: black;
+}
+.tutorial-main img{
+    width: 100%;
+    position: absolute;
+}
+.tutorial-main h1{
+    position: absolute;
+    font-family: 'Abril Fatface';
+    color: white;
+    left: 149px;
+    top: 300px;
+    font-weight: 400;
+    font-size: 85px;
+}
+.navbar{
+    position: absolute;
+    background: transparent;
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+.content-tutor h1{
+    position: absolute;
+    width: 717px;
+    height: 88px;
+    left: 390px;
+    top: 839px;
+    color: #A3C556;
+    font-weight: 400;
+    font-size: 64px;
+    font-family: 'Abril Fatface';
+    
+}
+.content-tutor p{
+    position: absolute;
+    color: white;
+    font-family: 'poppins';
+    left: 360px;
+    top: 945px;
+    font-weight: 400;
+    font-size: 20px;
+}
+/* .navbar a{
+    color: black;
+} */
+.content-box img{
+    width: 387px;
+    height: 517px;
+    position: absolute;
+    
+    
+}
+.content-box{
+    display: flex;
+    flex-direction: column;
+    /* top: 911px; */
+    /* margin-left: 150px; */
+    width: 420px;
+    height: 570px;
+    display: inline-block;
+    /* cursor: pointer; */
+    /* margin-top: 143px; */
+    /* top: 911px; */
+}
+.card{
+    top: 1080px;
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+    /* cursor: pointer; */
+    margin-left: 80px;   
+}
+.content-box h3{
+    position: absolute;
+    color: white;
+    font-family: 'Abril Fatface';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    margin-top: 149px;
+    width: 270px;
+    margin-left: 38px;
+}
+.content-box button{
+    position: absolute;
+    background: linear-gradient(90deg, #2B5876 0%, #437651 100%);
+    border-radius: 50px;
+    margin-top: 402px;
+    width: 211px;
+    height: 63px;
+    margin-left: 88px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 20px;
+}
+.content-carousel1 img{
+    margin-top: 1166px;
+    height: 773px;
+}
+.image{
+    position: absolute;
+    margin-top: 1166px;
+    width: 100%;
+    height: 773px;
+    background: linear-gradient(90deg, rgba(19, 78, 94, 0.67) 0%, rgba(113, 178, 128, 0.74) 100%);
+}
+.carousel{
+    /* position: absolute; */
+    background-color: white;
+    width: 1130px;
+    height: 486px;
+    left: 95px;
+    top: 1310px;
+    position: relative;
+}
+.footer{
+    margin-top: 730px;
+    height: 340px;
+    background: #1B211B;
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 400;
+font-size: 24px;
+}
+.footer{
+    height: 340px;
+    background: #1B211B;
+    position: absolute;
+    top: 2400px;
+}
+.content-footer img{
+    position: absolute;
+    width: 25vw;
+    height: 25vw;
+}
+.col2{
+    margin-left: 35vw;
+    margin-top: 100px;
+}
+.col2 a{
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+}
+.col3{
+    position: absolute;
+    margin-left: 75vw;
+    color: white;
+    margin-top: 100px;
+}
+.footer-title{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
